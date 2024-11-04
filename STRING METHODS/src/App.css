@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+button{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh1mk5eIUKicuPR8Fqo3NXCW1u3nmMq21-FQ&s");
+  font-size: 2rem;
+  margin: 5px;
+  color: black;
+}
